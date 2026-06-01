@@ -1,6 +1,6 @@
 {
-  "version": "1.0.32",
-  "build": 32,
-  "firmwareUrl": "https://github.com/bdpatterson73/LocalAirTrafficUpdates/releases/download/v1.0.32/firmware.bin",
+  "version": "1.0.33",
+  "build": 33,
+  "firmwareUrl": "https://github.com/bdpatterson73/LocalAirTrafficUpdates/releases/download/v1.0.33/firmware.bin",
   "releaseNotes": "Updates to the OTA check."
 }
