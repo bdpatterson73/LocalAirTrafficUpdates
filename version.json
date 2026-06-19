@@ -1,6 +1,6 @@
 {
-  "version": "1.0.60",
-  "build": 60,
-  "firmwareUrl": "https://github.com/bdpatterson73/LocalAirTrafficUpdates/releases/download/v1.0.60/firmware.bin",
+  "version": "1.0.62",
+  "build": 62,
+  "firmwareUrl": "https://github.com/bdpatterson73/LocalAirTrafficUpdates/releases/download/v1.0.62/firmware.bin",
   "releaseNotes": "Public release"
 }
