@@ -1,6 +1,6 @@
 {
-  "version": "1.0.74",
-  "build": 74,
-  "firmwareUrl": "https://github.com/bdpatterson73/LocalAirTrafficUpdates/releases/download/v1.0.74/firmware.bin",
-  "releaseNotes": "Project altitude based on vertical speed in between refreshes."
+  "version": "1.0.75",
+  "build": 75,
+  "firmwareUrl": "https://github.com/bdpatterson73/LocalAirTrafficUpdates/releases/download/v1.0.75/firmware.bin",
+  "releaseNotes": "One screen power button to turn off the screen."
 }
