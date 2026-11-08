@@ -1,6 +1,6 @@
 {
-  "version": "1.0.113",
-  "build": 113,
-  "firmwareUrl": "https://github.com/bdpatterson73/LocalAirTrafficUpdates/releases/download/v1.0.113/firmware.bin",
+  "version": "1.0.115",
+  "build": 115,
+  "firmwareUrl": "https://github.com/bdpatterson73/LocalAirTrafficUpdates/releases/download/v1.0.115/firmware.bin",
   "releaseNotes": "One screen power button to turn off the screen."
 }
